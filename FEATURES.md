@@ -1,6 +1,6 @@
 # pwndbg
 
-Pwndbg has a great deal of useful features.  You can a list of all available commands at any time by typing the `pwndbg` command.  Here's a small subset which are easy to capture in screenshots.
+Pwndbg has a great deal of useful features.  You can get a list of all available commands at any time by typing the `pwndbg` command.  Here's a small subset which are easy to capture in screenshots.
 
 ## Arguments
 
